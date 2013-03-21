@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello androidCEP!</string>
     <string name="app_name">androidCEP</string>
+    
+    <string name="get_cep">Consultar</string>
+    <string name="digite_cep">Digite o CEP</string>
 </resources>
