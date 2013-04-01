@@ -1,4 +1,4 @@
 androidCEP
 ==========
 
-Projeto android com maven utilizando a biblioteca spring-android-rest-template para consultar o webservice que retorna o endereço baseado no CEP
+Android project with Maven using spring-android-rest-template library to consult Webservice that returns an address given a number of CEP.
